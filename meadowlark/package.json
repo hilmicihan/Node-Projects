@@ -1,0 +1,26 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilmicihan/Node-Projects.git"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "hilmi cihan yıldırım",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hilmicihan/Node-Projects/issues"
+  },
+  "homepage": "https://github.com/hilmicihan/Node-Projects#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
